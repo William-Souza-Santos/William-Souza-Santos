@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá eu sou o William ✋
 
-<!--
-**William-Souza-Santos/William-Souza-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Meus Contatos: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-souza-santos-59037b1a9/)
 
-Here are some ideas to get you started:
+#### Status: 
+![William GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Souza-Santos&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Souza-Santos)](https://github.com/William-Souza-Santos/github-readme-stats)
+#### Tecnologias com que eu trabalho e conheço: 
+<div style="display: inline_block"><br/>
+     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+     <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+     <img align="center" alt="Esp32" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+</div> <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Técnico em Eletroeletrônica pelo SENAI e Estudante de Engenharia Eletrônica no IFSP (Instituto Federal de São Paulo), tenho experiência na área de desenvolvimento e testes de software embarcado automotivo. 
