@@ -12,6 +12,7 @@
      <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
      <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
      <img align="center" alt="Esp32" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div> <br/>
 
 Técnico em Eletroeletrônica pelo SENAI e Estudante de Engenharia Eletrônica no IFSP (Instituto Federal de São Paulo), tenho experiência na área de desenvolvimento e testes de software embarcado automotivo. 
