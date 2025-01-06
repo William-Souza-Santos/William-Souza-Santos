@@ -19,4 +19,4 @@
      <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div> <br/>
 
-Técnico em Eletroeletrônica pelo SENAI e Estudante de Engenharia Eletrônica no IFSP (Instituto Federal de São Paulo), tenho experiência na área de desenvolvimento e software & Hardware embarcado automotivo. 
+Técnico em Eletroeletrônica pelo SENAI e Estudante de Engenharia Eletrônica no IFSP (Instituto Federal de São Paulo), tenho experiência na área de desenvolvimento e Software & Hardware embarcado automotivo. 
