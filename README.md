@@ -1,5 +1,7 @@
 ### Olá eu sou o William ✋
 
+### Hi I'm William ✋
+
 #### Meus Contatos: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-souza-santos-59037b1a9/)
 
