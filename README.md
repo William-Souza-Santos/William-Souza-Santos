@@ -2,7 +2,7 @@
 
 ## Electronic Engineer and Electronics Technician
 
-## I have a significant background in firmware development on Atmega, SMT32, ESP32 and PIC microcontrollers and other families 32/16/8 bits. 
+### I have a significant background in firmware development on Atmega, SMT32, ESP32 and PIC microcontrollers and other families 32/16/8 bits. 
 
 ## Firmware Skills: 
 
@@ -27,7 +27,7 @@
 
 # Hardware Skills: 
 
-## In addition to significant hardware development skills in schematic development and layout using open source tools such as Kicad and industrial software such as Altiun Designer.
+### In addition to significant hardware development skills in schematic development and layout using open source tools such as Kicad and industrial software such as Altiun Designer.
 
 Experience in research and development of innovative solutions for the electronics industry.
 EMC/EMI test preparation 
