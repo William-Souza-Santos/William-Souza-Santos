@@ -1,6 +1,6 @@
-##### Hi, Im William ✋
+## Hi, Im William ✋
 
-#### Electronic Engineer and electronics Technician
+## Electronic Engineer and electronics Technician
 
 ### I have a significant background in firmware development on Atmega, SMT32, ESP32 and PIC microcontrollers.
 ### In addition to significant hardware development skills in schematic development and layout using open source tools such as Kicad and industrial software such as Altiun Designer.
