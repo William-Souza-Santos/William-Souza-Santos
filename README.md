@@ -1,9 +1,9 @@
-### Olá eu sou o William ✋
+##### Hi, Im William ✋
 
-### Hi, I'm William ✋
+#### Electronic Engineer and electronics Technician
 
-
-
+### I have a significant background in firmware development on Atmega, SMT32, ESP32 and PIC microcontrollers.
+### In addition to significant hardware development skills in schematic development and layout using open source tools such as Kicad and industrial software such as Altiun Designer.
 #### Meus Contatos: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-souza-santos-59037b1a9/)
 
