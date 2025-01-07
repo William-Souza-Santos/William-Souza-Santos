@@ -1,4 +1,4 @@
-## Hi, Im William ✋
+## Hi, I'm William ✋
 
 ## Electronic Engineer and Electronics Technician
 
@@ -25,17 +25,17 @@
  ##### Automotive System Engineering (Requirement and Validation)
 
 
-# Hardware Skills: 
+## Hardware Skills: 
 
 ### In addition to significant hardware development skills in schematic development and layout using open source tools such as Kicad and industrial software such as Altiun Designer.
 
-Experience in research and development of innovative solutions for the electronics industry.
-EMC/EMI test preparation 
-Selection and maintenance of components list (BOM).
-Development of printed circuits (schematics and layout)
-Advanced of LTSPICE simulation
-Debugging electronic boards.
-Troubleshooting in Eletronic Devices. 
+##### Experience in research and development of innovative solutions for the electronics industry.
+##### EMC/EMI test preparation 
+##### Selection and maintenance of components list (BOM).
+##### Development of printed circuits (schematics and layout)
+##### Advanced of LTSPICE simulation
+##### Debugging electronic boards.
+##### Troubleshooting in Eletronic Devices. 
 
 
 #### Meus Contatos: 
