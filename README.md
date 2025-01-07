@@ -6,7 +6,7 @@
 
 # Firmware Skills: 
 
- #### Experience with developement of embedded systems in C and C++ (GPRS / GSM, GPS, Accelerometer, RFID, RF, Telemetry, Communication protocols, Bluetooth, Audio and Electronic instrument cluster).
+ ##### Experience with developement of embedded systems in C and C++ (GPRS / GSM, GPS, Accelerometer, RFID, RF, Telemetry, Communication protocols, Bluetooth, Audio and Electronic instrument cluster).
  Experience with Software Test and Validation
  Experience/Knowledge with graphical programming languagens as LogiCad (FBD)/ Simulink (MatLab)/ LabView 
  Experience with VECTOR Tools as CaNoe, CAPL, CANalyzer. 
