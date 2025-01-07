@@ -2,40 +2,40 @@
 
 ## Electronic Engineer and Electronics Technician
 
-## I have a significant background in firmware development on Atmega, SMT32, ESP32 and PIC microcontrollers and another families 32 bits. 
+## I have a significant background in firmware development on Atmega, SMT32, ESP32 and PIC microcontrollers and other families 32/16/8 bits. 
 
 # Firmware Skills: 
 
-### Experience with developement of embedded systems in C and C++ (GPRS / GSM, GPS, Accelerometer, RFID, RF, Telemetry, Communication protocols, Bluetooth, Audio and Electronic instrument cluster).
-### Experience with Software Test and Validation
-### Experience/Knowledge with graphical programming languagens as LogiCad (FBD)/ Simulink (MatLab)/ LabView 
-### Experience with VECTOR Tools as CaNoe, CAPL, CANalyzer. 
-### Experience with CAN & LIN Protocols in automotive aplications
-### BSW CAN, LIN and UDS Diagnostics Networks.
-### Embedded Software Development Architecture
-### CAPL scripts for ECU testing purposes.
-### VECTOR Tools (CANoe /CANalyser)
-### LabVIEW
-###  MISRA C (Critical Embedded Systems)
-### RTOS
-###  AUTOSAR
-###  ASPICE 
-###  Safety & ISO 26262
-### Cybersecurity & ISO 27001
-### Automotive System Engineering (Requirement and Validation)
+ Experience with developement of embedded systems in C and C++ (GPRS / GSM, GPS, Accelerometer, RFID, RF, Telemetry, Communication protocols, Bluetooth, Audio and Electronic instrument cluster).
+ Experience with Software Test and Validation
+ Experience/Knowledge with graphical programming languagens as LogiCad (FBD)/ Simulink (MatLab)/ LabView 
+ Experience with VECTOR Tools as CaNoe, CAPL, CANalyzer. 
+ Experience with CAN & LIN Protocols in automotive aplications
+ BSW CAN, LIN and UDS Diagnostics Networks.
+ Embedded Software Development Architecture
+ CAPL scripts for ECU testing purposes.
+ VECTOR Tools (CANoe /CANalyser)
+ LabVIEW
+ MISRA C (Critical Embedded Systems)
+ RTOS
+AUTOSAR
+ASPICE 
+Safety & ISO 26262
+Cybersecurity & ISO 27001
+Automotive System Engineering (Requirement and Validation)
 
 
 # Hardware Skills: 
 
 ## In addition to significant hardware development skills in schematic development and layout using open source tools such as Kicad and industrial software such as Altiun Designer.
 
-### Experience in research and development of innovative solutions for the electronics industry.
-### EMC/EMI test preparation 
-### Selection and maintenance of components list (BOM).
-### Development of printed circuits (schematics and layout)
-### Advanced of LTSPICE simulation
-### Debugging electronic boards.
-### Troubleshooting in Eletronic Devices. 
+Experience in research and development of innovative solutions for the electronics industry.
+EMC/EMI test preparation 
+Selection and maintenance of components list (BOM).
+Development of printed circuits (schematics and layout)
+Advanced of LTSPICE simulation
+Debugging electronic boards.
+Troubleshooting in Eletronic Devices. 
 
 
 #### Meus Contatos: 
