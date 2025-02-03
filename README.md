@@ -55,4 +55,3 @@
 
 Técnico em Eletroeletrônica pelo SENAI e Estudante de Engenharia Eletrônica no IFSP (Instituto Federal de São Paulo), tenho experiência na área de desenvolvimento e Software & Hardware embarcado automotivo. 
 
-Teste Git status Profile
